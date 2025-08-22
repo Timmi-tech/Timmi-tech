@@ -1,9 +1,16 @@
-<h1 align="center">👋 Welcome to Tomiwa's GitHub!</h1>
-<p align="center">
-    <b>Building scalable, secure, and user-friendly software solutions 🚀</b>
-</p>
-
----
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=👋+Welcome+to+Tomiwa's+GitHub!;Building+Scalable+Solutions+🚀;Clean+Architecture+Enthusiast;Software+Developer+%26+Problem+Solver" alt="Typing SVG" />
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Timmi-tech&color=blueviolet&style=flat-square&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/Timmi-tech?label=Followers&style=flat-square&color=blue" />
+  <img src="https://img.shields.io/github/stars/Timmi-tech?label=Stars&style=flat-square&color=yellow" />
+</div>
+<br>
+<div align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Timmi-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Timmi-tech&theme=tokyonight&hide_border=true&background=0D1117" />
+</div>
 
 ## 🌟 About Me
 
@@ -102,18 +109,6 @@ I thrive on solving real-world problems through code, collaborating on open-sour
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tomiwaodufowokan)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Timmi-tech)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Timmi-tech&theme=tokyonight" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Timmi-tech&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timmi-tech&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ---
 
